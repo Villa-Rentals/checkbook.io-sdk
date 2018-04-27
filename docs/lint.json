@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Bank#verify",
+    "filePath": "src/controllers/bank.js",
+    "lines": [
+      {
+        "lineNumber": 58,
+        "line": "  /**"
+      },
+      {
+        "lineNumber": 59,
+        "line": "   * Verify a bank account"
+      },
+      {
+        "lineNumber": 60,
+        "line": "   * @param  {number} amount_1 First micro deposit amount"
+      },
+      {
+        "lineNumber": 61,
+        "line": "   * @param  {number} amount_2 Second micro deposit amount"
+      },
+      {
+        "lineNumber": 62,
+        "line": "   * @return {promise}         Response from the network"
+      },
+      {
+        "lineNumber": 63,
+        "line": "   */"
+      },
+      {
+        "lineNumber": 64,
+        "line": "  verify (amount1, amount2) {"
+      }
+    ],
+    "codeParams": [
+      "amount1",
+      "amount2"
+    ],
+    "docParams": [
+      "amount_1",
+      "amount_2"
+    ]
+  },
+  {
+    "name": "Subscription#createCheck",
+    "filePath": "src/controllers/subscription.js",
+    "lines": [
+      {
+        "lineNumber": 39,
+        "line": "  /**"
+      },
+      {
+        "lineNumber": 40,
+        "line": "   * Create a new check subscription"
+      },
+      {
+        "lineNumber": 41,
+        "line": "   * @param  {string} recipient email/id of recipient"
+      },
+      {
+        "lineNumber": 42,
+        "line": "   * @param  {string} name      Name of recipient"
+      },
+      {
+        "lineNumber": 43,
+        "line": "   * @param  {float} amount     Amount for the charge"
+      },
+      {
+        "lineNumber": 44,
+        "line": "   * @param  {string} inverval  How often the subscription will recur: WEEKLY, MONTHLY"
+      },
+      {
+        "lineNumber": 45,
+        "line": "   * @param  {object} options   Optional options for the request (start_date, description, duration, account)"
+      },
+      {
+        "lineNumber": 46,
+        "line": "   * @return {promise}          Response from the network"
+      },
+      {
+        "lineNumber": 47,
+        "line": "   */"
+      },
+      {
+        "lineNumber": 48,
+        "line": "  createCheck (recipient, name, amount, interval, options = {}) {"
+      }
+    ],
+    "codeParams": [
+      "recipient",
+      "name",
+      "amount",
+      "interval",
+      "options"
+    ],
+    "docParams": [
+      "recipient",
+      "name",
+      "amount",
+      "inverval",
+      "options"
+    ]
+  },
+  {
+    "name": "Subscription#createInvoice",
+    "filePath": "src/controllers/subscription.js",
+    "lines": [
+      {
+        "lineNumber": 62,
+        "line": "  /**"
+      },
+      {
+        "lineNumber": 63,
+        "line": "   * Create a new invoice subscription"
+      },
+      {
+        "lineNumber": 64,
+        "line": "   * @param  {string} recipient email/id of recipient"
+      },
+      {
+        "lineNumber": 65,
+        "line": "   * @param  {string} name      Name of recipient"
+      },
+      {
+        "lineNumber": 66,
+        "line": "   * @param  {float} amount     Amount for the charge"
+      },
+      {
+        "lineNumber": 67,
+        "line": "   * @param  {string} description Description of the charge"
+      },
+      {
+        "lineNumber": 68,
+        "line": "   * @param  {string} inverval  How often the subscription will recur: WEEKLY, MONTHLY"
+      },
+      {
+        "lineNumber": 69,
+        "line": "   * @param  {object} options   Optional options for the request (start_date, description, duration, account)"
+      },
+      {
+        "lineNumber": 70,
+        "line": "   * @return {promise}          Response from the network"
+      },
+      {
+        "lineNumber": 71,
+        "line": "   */"
+      },
+      {
+        "lineNumber": 72,
+        "line": "  createInvoice (recipient, name, amount, description, interval, options = {}) {"
+      }
+    ],
+    "codeParams": [
+      "recipient",
+      "name",
+      "amount",
+      "description",
+      "interval",
+      "options"
+    ],
+    "docParams": [
+      "recipient",
+      "name",
+      "amount",
+      "description",
+      "inverval",
+      "options"
+    ]
+  }
+]

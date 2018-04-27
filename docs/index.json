@@ -1,0 +1,2075 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/controllers/abstract/base.js",
+    "content": "'use strict'\n\nimport axios from 'axios'\n\nexport default class Base {\n  constructor (realm, key, secret) {\n    this.realm = realm\n    this.key = key\n    this.secret = secret\n  }\n\n  formatUrl (path) {\n    return `https://${this.realm}.checkbook.io/v3${path}`\n  }\n\n  request (method, path, params = {}) {\n    let headers = {\n      'Authorization': `${this.key}:${this.secret}`,\n      'Content-Type': 'application/json'\n    }\n    return axios({\n      method: method,\n      url: this.formatUrl(path),\n      data: params,\n      headers: headers\n    })\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/brian_olencki/projects/checkbook.io-sdk/src/controllers/abstract/base.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "Base",
+    "memberof": "src/controllers/abstract/base.js",
+    "static": true,
+    "longname": "src/controllers/abstract/base.js~Base",
+    "access": "public",
+    "export": true,
+    "importPath": "checkbook.io-sdk/src/controllers/abstract/base.js",
+    "importStyle": "Base",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 50,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/controllers/abstract/base.js~Base",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/abstract/base.js~Base#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "member",
+    "name": "realm",
+    "memberof": "src/controllers/abstract/base.js~Base",
+    "static": false,
+    "longname": "src/controllers/abstract/base.js~Base#realm",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "member",
+    "name": "key",
+    "memberof": "src/controllers/abstract/base.js~Base",
+    "static": false,
+    "longname": "src/controllers/abstract/base.js~Base#key",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "member",
+    "name": "secret",
+    "memberof": "src/controllers/abstract/base.js~Base",
+    "static": false,
+    "longname": "src/controllers/abstract/base.js~Base#secret",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "method",
+    "name": "formatUrl",
+    "memberof": "src/controllers/abstract/base.js~Base",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/abstract/base.js~Base#formatUrl",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "params": [
+      {
+        "name": "path",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "method",
+    "name": "request",
+    "memberof": "src/controllers/abstract/base.js~Base",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/abstract/base.js~Base#request",
+    "access": "public",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "params": [
+      {
+        "name": "method",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "path",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "params",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/controllers/bank.js",
+    "content": "import Base from './abstract/base'\n\nexport default class Bank extends Base {\n  /**\n   * Create a new bank account\n   * @param  {string} routing routing number\n   * @param  {string} account account number\n   * @param  {string} type    type of bank account (checking or business)\n   * @return {promise}        Response from network\n   */\n  create (routing, account, type) {\n    return this.request('POST', '/bank', {\n      routing,\n      account,\n      type\n    })\n  }\n\n  /**\n   * Get all bank accounts\n   * @return {promise} Response from the network\n   */\n  getAll () {\n    return this.request('GET', '/bank')\n  }\n\n  /**\n   * Remove a bank account by identifier\n   * @param  {string} id Previously aquired bank id\n   * @return {promise}   Response from the network\n   */\n  remove (id) {\n    return this.request('DELETE', `/bank/${id}`)\n  }\n\n  /**\n   * Create a new bank account\n   * @param  {string} id      id returned from the institutions endpoint\n   * @param  {string} account account number\n   * @param  {string} type    type of bank account (checking or business)\n   * @return {promise}        Response from network\n   */\n  createIAV (id, account, type) {\n    return this.request('POST', '/bank/iav', {\n      institution_id: id,\n      account,\n      type\n    })\n  }\n\n  /**\n   * Get all institutions\n   * @return {promise} Response from the network\n   */\n  getInstitutions () {\n    return this.request('GET', '/bank/institutions')\n  }\n\n  /**\n   * Verify a bank account\n   * @param  {number} amount_1 First micro deposit amount\n   * @param  {number} amount_2 Second micro deposit amount\n   * @return {promise}         Response from the network\n   */\n  verify (amount1, amount2) {\n    return this.request('POST', '/bank/verify', {\n      amount_1: amount1,\n      amount_2: amount2\n    })\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/brian_olencki/projects/checkbook.io-sdk/src/controllers/bank.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "class",
+    "name": "Bank",
+    "memberof": "src/controllers/bank.js",
+    "static": true,
+    "longname": "src/controllers/bank.js~Bank",
+    "access": "public",
+    "export": true,
+    "importPath": "checkbook.io-sdk/src/controllers/bank.js",
+    "importStyle": "Bank",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/controllers/abstract/base.js~Base"
+    ]
+  },
+  {
+    "__docId__": 58,
+    "kind": "method",
+    "name": "create",
+    "memberof": "src/controllers/bank.js~Bank",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/bank.js~Bank#create",
+    "access": "public",
+    "description": "Create a new bank account",
+    "lineNumber": 11,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "routing",
+        "description": "routing number"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "account",
+        "description": "account number"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": "type of bank account (checking or business)"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from network"
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "method",
+    "name": "getAll",
+    "memberof": "src/controllers/bank.js~Bank",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/bank.js~Bank#getAll",
+    "access": "public",
+    "description": "Get all bank accounts",
+    "lineNumber": 23,
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 60,
+    "kind": "method",
+    "name": "remove",
+    "memberof": "src/controllers/bank.js~Bank",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/bank.js~Bank#remove",
+    "access": "public",
+    "description": "Remove a bank account by identifier",
+    "lineNumber": 32,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "Previously aquired bank id"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "method",
+    "name": "createIAV",
+    "memberof": "src/controllers/bank.js~Bank",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/bank.js~Bank#createIAV",
+    "access": "public",
+    "description": "Create a new bank account",
+    "lineNumber": 43,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "id returned from the institutions endpoint"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "account",
+        "description": "account number"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": "type of bank account (checking or business)"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from network"
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "method",
+    "name": "getInstitutions",
+    "memberof": "src/controllers/bank.js~Bank",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/bank.js~Bank#getInstitutions",
+    "access": "public",
+    "description": "Get all institutions",
+    "lineNumber": 55,
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 63,
+    "kind": "method",
+    "name": "verify",
+    "memberof": "src/controllers/bank.js~Bank",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/bank.js~Bank#verify",
+    "access": "public",
+    "description": "Verify a bank account",
+    "lineNumber": 65,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "amount_1",
+        "description": "First micro deposit amount"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "amount_2",
+        "description": "Second micro deposit amount"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "file",
+    "name": "src/controllers/check.js",
+    "content": "import Base from './abstract/base'\n\nexport default class Check extends Base {\n  /**\n   * Remove a check by identifier\n   * @param  {string} id Previously aquired identifier of a check\n   * @return {promise}   Response from the network\n   */\n  remove (id) {\n    return this.request('DELETE', `/check/${id}`)\n  }\n\n  /**\n   * Get all checks for the user\n   * @return {promise} Reponse from the network\n   */\n  getAll () {\n    return this.request('GET', '/check')\n  }\n\n  /**\n   * Get information about a check by identifier\n   * @param  {string} id Previously aquired identifier of check\n   * @return {promise}   Response from the network\n   */\n  get (id) {\n    return this.request('GET', `/check/${id}`)\n  }\n\n  /**\n   * Create a new digital check\n   * @param  {String} name      Name of the recipient\n   * @param  {String} email     Email of the recipient\n   * @param  {number} amount    Amount to send the recipient\n   * @return {promise}          Response from the network\n   */\n  createDigital (name, email, amount) {\n    return this.request('POST', '/check/digital', {\n      name,\n      recipient: email,\n      amount: Number(amount)\n    })\n  }\n\n  /**\n   * Create a new physical check\n   * @param  {String} name    Name of the recipient\n   * @param  {object} address address of the recipient ({\"line_1\": \"1234 N. 1st Street\",\"line_2\": \"#56\",\"city\": \"San Francisco\",\"state\": \"CA\",\"zip\": \"12345\"})\n   * @param  {number} amount  Amount to send the recipient\n   * @return {promise}         Response from the network\n   */\n  createPhysical (name, address, amount) {\n    return this.request('POST', '/check/physical', {\n      name,\n      recipient: address,\n      amount: Number(amount)\n    })\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/brian_olencki/projects/checkbook.io-sdk/src/controllers/check.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 65,
+    "kind": "class",
+    "name": "Check",
+    "memberof": "src/controllers/check.js",
+    "static": true,
+    "longname": "src/controllers/check.js~Check",
+    "access": "public",
+    "export": true,
+    "importPath": "checkbook.io-sdk/src/controllers/check.js",
+    "importStyle": "Check",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/controllers/abstract/base.js~Base"
+    ]
+  },
+  {
+    "__docId__": 66,
+    "kind": "method",
+    "name": "remove",
+    "memberof": "src/controllers/check.js~Check",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/check.js~Check#remove",
+    "access": "public",
+    "description": "Remove a check by identifier",
+    "lineNumber": 9,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "Previously aquired identifier of a check"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "method",
+    "name": "getAll",
+    "memberof": "src/controllers/check.js~Check",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/check.js~Check#getAll",
+    "access": "public",
+    "description": "Get all checks for the user",
+    "lineNumber": 17,
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Reponse from the network"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 68,
+    "kind": "method",
+    "name": "get",
+    "memberof": "src/controllers/check.js~Check",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/check.js~Check#get",
+    "access": "public",
+    "description": "Get information about a check by identifier",
+    "lineNumber": 26,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "Previously aquired identifier of check"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "method",
+    "name": "createDigital",
+    "memberof": "src/controllers/check.js~Check",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/check.js~Check#createDigital",
+    "access": "public",
+    "description": "Create a new digital check",
+    "lineNumber": 37,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "name",
+        "description": "Name of the recipient"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "email",
+        "description": "Email of the recipient"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "amount",
+        "description": "Amount to send the recipient"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "method",
+    "name": "createPhysical",
+    "memberof": "src/controllers/check.js~Check",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/check.js~Check#createPhysical",
+    "access": "public",
+    "description": "Create a new physical check",
+    "lineNumber": 52,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "name",
+        "description": "Name of the recipient"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "address",
+        "description": "address of the recipient ({\"line_1\": \"1234 N. 1st Street\",\"line_2\": \"#56\",\"city\": \"San Francisco\",\"state\": \"CA\",\"zip\": \"12345\"})"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "amount",
+        "description": "Amount to send the recipient"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "file",
+    "name": "src/controllers/invoice.js",
+    "content": "import Base from './abstract/base'\n\nexport default class Invoice extends Base {\n  /**\n   * Get all invoices\n   * @return {promise} Response from the network\n   */\n  getAll () {\n    return this.request('GET', '/invoice')\n  }\n\n  /**\n   * Create a new invoices\n   * @param  {string} recipient   Email or id of recipient\n   * @param  {string} name        Name of recipient\n   * @param  {float} amount       Amount for invoicing\n   * @param  {string} description Description of the invoice\n   * @param  {object} options     Aditional options for the request that are considered optional (account, attachment)\n   * @return {promise}            Response from the network\n   */\n  create (recipient, name, amount, description, options = {}) {\n    let body = {\n      recipient,\n      name,\n      amount,\n      description\n    }\n    Object.keys(options).forEach((key) => {\n      body[key] = options[key]\n    })\n    return this.request('POST', '/invoice', body)\n  }\n\n  /**\n   * Remove an invoice\n   * @param  {string} id Previously retrieved identifier\n   * @return {promise}   Response from the network\n   */\n  remove (id) {\n    return this.request('DELETE', `/invoice/${id}`)\n  }\n\n  /**\n   * Get information about a specific invoice\n   * @param  {string} id Previously aquired identifier of an invoice\n   * @return {promise}   Response from the network\n   */\n  get (id) {\n    return this.request('GET', `/invoice/${id}`)\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/brian_olencki/projects/checkbook.io-sdk/src/controllers/invoice.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 72,
+    "kind": "class",
+    "name": "Invoice",
+    "memberof": "src/controllers/invoice.js",
+    "static": true,
+    "longname": "src/controllers/invoice.js~Invoice",
+    "access": "public",
+    "export": true,
+    "importPath": "checkbook.io-sdk/src/controllers/invoice.js",
+    "importStyle": "Invoice",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/controllers/abstract/base.js~Base"
+    ]
+  },
+  {
+    "__docId__": 73,
+    "kind": "method",
+    "name": "getAll",
+    "memberof": "src/controllers/invoice.js~Invoice",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/invoice.js~Invoice#getAll",
+    "access": "public",
+    "description": "Get all invoices",
+    "lineNumber": 8,
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 74,
+    "kind": "method",
+    "name": "create",
+    "memberof": "src/controllers/invoice.js~Invoice",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/invoice.js~Invoice#create",
+    "access": "public",
+    "description": "Create a new invoices",
+    "lineNumber": 21,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "recipient",
+        "description": "Email or id of recipient"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "name",
+        "description": "Name of recipient"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "float"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "amount",
+        "description": "Amount for invoicing"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "description",
+        "description": "Description of the invoice"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": "Aditional options for the request that are considered optional (account, attachment)"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "method",
+    "name": "remove",
+    "memberof": "src/controllers/invoice.js~Invoice",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/invoice.js~Invoice#remove",
+    "access": "public",
+    "description": "Remove an invoice",
+    "lineNumber": 39,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "Previously retrieved identifier"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "method",
+    "name": "get",
+    "memberof": "src/controllers/invoice.js~Invoice",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/invoice.js~Invoice#get",
+    "access": "public",
+    "description": "Get information about a specific invoice",
+    "lineNumber": 48,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "Previously aquired identifier of an invoice"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "file",
+    "name": "src/controllers/subscription.js",
+    "content": "import Base from './abstract/base'\n\nexport default class Subscription extends Base {\n  /**\n   * Get all subscriptions for the user\n   * @return {promise} Response from the network\n   */\n  getAll () {\n    return this.request('GET', '/subscription')\n  }\n\n  /**\n   * Remove a subscription\n   * @param  {string} id Previously aquired identifier of subscription\n   * @return {promise}   Response from the network\n   */\n  remove (id) {\n    return this.request('DELETE', `/subscription/${id}`)\n  }\n\n  /**\n   * Get information about specific subscription\n   * @param  {string} id Previously aquired identifier of subscription\n   * @return {promise}   Response from the network\n   */\n  get (id) {\n    return this.request('GET', `/subscription/${id}`)\n  }\n\n  /**\n   * Update an existing subscription\n   * @param  {string} id      Previously aquired identifier of subscription\n   * @param  {object} options Values to be updated\n   * @return {promise}        Response from the network\n   */\n  update (id, options) {\n    return this.request('PUT', `/subscription/${id}`, options)\n  }\n\n  /**\n   * Create a new check subscription\n   * @param  {string} recipient email/id of recipient\n   * @param  {string} name      Name of recipient\n   * @param  {float} amount     Amount for the charge\n   * @param  {string} inverval  How often the subscription will recur: WEEKLY, MONTHLY\n   * @param  {object} options   Optional options for the request (start_date, description, duration, account)\n   * @return {promise}          Response from the network\n   */\n  createCheck (recipient, name, amount, interval, options = {}) {\n    let body = {\n      name,\n      recipient,\n      amount: Number(amount),\n      interval\n    }\n    Object.keys(options).forEach((key) => {\n      body[key] = options[key]\n    })\n\n    return this.request('POST', '/subscription/check', body)\n  }\n\n  /**\n   * Create a new invoice subscription\n   * @param  {string} recipient email/id of recipient\n   * @param  {string} name      Name of recipient\n   * @param  {float} amount     Amount for the charge\n   * @param  {string} description Description of the charge\n   * @param  {string} inverval  How often the subscription will recur: WEEKLY, MONTHLY\n   * @param  {object} options   Optional options for the request (start_date, description, duration, account)\n   * @return {promise}          Response from the network\n   */\n  createInvoice (recipient, name, amount, description, interval, options = {}) {\n    let body = {\n      name,\n      recipient,\n      amount: Number(amount),\n      description,\n      interval\n    }\n    Object.keys(options).forEach((key) => {\n      body[key] = options[key]\n    })\n\n    return this.request('POST', '/subscription/invoice', body)\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/brian_olencki/projects/checkbook.io-sdk/src/controllers/subscription.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 78,
+    "kind": "class",
+    "name": "Subscription",
+    "memberof": "src/controllers/subscription.js",
+    "static": true,
+    "longname": "src/controllers/subscription.js~Subscription",
+    "access": "public",
+    "export": true,
+    "importPath": "checkbook.io-sdk/src/controllers/subscription.js",
+    "importStyle": "Subscription",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/controllers/abstract/base.js~Base"
+    ]
+  },
+  {
+    "__docId__": 79,
+    "kind": "method",
+    "name": "getAll",
+    "memberof": "src/controllers/subscription.js~Subscription",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/subscription.js~Subscription#getAll",
+    "access": "public",
+    "description": "Get all subscriptions for the user",
+    "lineNumber": 8,
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 80,
+    "kind": "method",
+    "name": "remove",
+    "memberof": "src/controllers/subscription.js~Subscription",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/subscription.js~Subscription#remove",
+    "access": "public",
+    "description": "Remove a subscription",
+    "lineNumber": 17,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "Previously aquired identifier of subscription"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "method",
+    "name": "get",
+    "memberof": "src/controllers/subscription.js~Subscription",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/subscription.js~Subscription#get",
+    "access": "public",
+    "description": "Get information about specific subscription",
+    "lineNumber": 26,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "Previously aquired identifier of subscription"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 82,
+    "kind": "method",
+    "name": "update",
+    "memberof": "src/controllers/subscription.js~Subscription",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/subscription.js~Subscription#update",
+    "access": "public",
+    "description": "Update an existing subscription",
+    "lineNumber": 36,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "Previously aquired identifier of subscription"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": "Values to be updated"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "method",
+    "name": "createCheck",
+    "memberof": "src/controllers/subscription.js~Subscription",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/subscription.js~Subscription#createCheck",
+    "access": "public",
+    "description": "Create a new check subscription",
+    "lineNumber": 49,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "recipient",
+        "description": "email/id of recipient"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "name",
+        "description": "Name of recipient"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "float"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "amount",
+        "description": "Amount for the charge"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "inverval",
+        "description": "How often the subscription will recur: WEEKLY, MONTHLY"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": "Optional options for the request (start_date, description, duration, account)"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 84,
+    "kind": "method",
+    "name": "createInvoice",
+    "memberof": "src/controllers/subscription.js~Subscription",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/subscription.js~Subscription#createInvoice",
+    "access": "public",
+    "description": "Create a new invoice subscription",
+    "lineNumber": 73,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "recipient",
+        "description": "email/id of recipient"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "name",
+        "description": "Name of recipient"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "float"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "amount",
+        "description": "Amount for the charge"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "description",
+        "description": "Description of the charge"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "inverval",
+        "description": "How often the subscription will recur: WEEKLY, MONTHLY"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": "Optional options for the request (start_date, description, duration, account)"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "file",
+    "name": "src/controllers/user.js",
+    "content": "import Base from './abstract/base'\n\nexport default class User extends Base {\n  /**\n   * Create a new user\n   * @param  {string} id   Unique identifier for the user\n   * @param  {string} name Name of the user\n   * @return {promise}      Response from the network\n   */\n  create (id, name) {\n    return this.request('POST', '/user', {\n      user_id: id,\n      name\n    })\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/brian_olencki/projects/checkbook.io-sdk/src/controllers/user.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 86,
+    "kind": "class",
+    "name": "User",
+    "memberof": "src/controllers/user.js",
+    "static": true,
+    "longname": "src/controllers/user.js~User",
+    "access": "public",
+    "export": true,
+    "importPath": "checkbook.io-sdk/src/controllers/user.js",
+    "importStyle": "User",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/controllers/abstract/base.js~Base"
+    ]
+  },
+  {
+    "__docId__": 87,
+    "kind": "method",
+    "name": "create",
+    "memberof": "src/controllers/user.js~User",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/user.js~User#create",
+    "access": "public",
+    "description": "Create a new user",
+    "lineNumber": 10,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "Unique identifier for the user"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "name",
+        "description": "Name of the user"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "promise"
+      ],
+      "spread": false,
+      "description": "Response from the network"
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "file",
+    "name": "src/errors/envInitializationError.js",
+    "content": "/**\n * Copyright: Copyright © 2017\n * This file contains trade secrets of Villa Rentals. No part may be reproduced or transmitted in any\n * form by any means or for any purpose without the express written permission of Villa Rentals.\n */\n\n'use strict'\n\nmodule.exports = class EnvInitializationError extends Error {\n  constructor (message, status) {\n    super(message)\n\n    this.name = this.constructor.name\n    Error.captureStackTrace(this, this.constructor)\n    this.status = status || 500\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/brian_olencki/projects/checkbook.io-sdk/src/errors/envInitializationError.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 89,
+    "kind": "class",
+    "name": "exports",
+    "memberof": "src/errors/envInitializationError.js",
+    "static": true,
+    "longname": "src/errors/envInitializationError.js~exports",
+    "access": "public",
+    "export": false,
+    "importPath": "checkbook.io-sdk/src/errors/envInitializationError.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "Error"
+    ],
+    "ignore": true
+  },
+  {
+    "__docId__": 90,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/errors/envInitializationError.js~exports",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/errors/envInitializationError.js~exports#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true
+  },
+  {
+    "__docId__": 91,
+    "kind": "member",
+    "name": "name",
+    "memberof": "src/errors/envInitializationError.js~exports",
+    "static": false,
+    "longname": "src/errors/envInitializationError.js~exports#name",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "member",
+    "name": "status",
+    "memberof": "src/errors/envInitializationError.js~exports",
+    "static": false,
+    "longname": "src/errors/envInitializationError.js~exports#status",
+    "access": "public",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "'use strict'\n\nimport Check from './controllers/check'\nimport Invoice from './controllers/invoice'\nimport Subscription from './controllers/subscription'\nimport User from './controllers/user'\nimport Bank from './controllers/bank'\n\nexport default class Checkbook {\n  constructor (realm, key, secret) {\n    this.realm = realm\n    this.key = key\n    this.secret = secret\n  }\n\n  check () {\n    return new Check(this.realm, this.key, this.secret)\n  }\n\n  invoice () {\n    return new Invoice(this.realm, this.key, this.secret)\n  }\n\n  subscription () {\n    return new Subscription(this.realm, this.key, this.secret)\n  }\n\n  user () {\n    return new User(this.realm, this.key, this.secret)\n  }\n\n  bank () {\n    return new Bank(this.realm, this.key, this.secret)\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/brian_olencki/projects/checkbook.io-sdk/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 94,
+    "kind": "class",
+    "name": "Checkbook",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~Checkbook",
+    "access": "public",
+    "export": true,
+    "importPath": "checkbook.io-sdk/src/index.js",
+    "importStyle": "Checkbook",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 95,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/index.js~Checkbook",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~Checkbook#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true
+  },
+  {
+    "__docId__": 96,
+    "kind": "member",
+    "name": "realm",
+    "memberof": "src/index.js~Checkbook",
+    "static": false,
+    "longname": "src/index.js~Checkbook#realm",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "member",
+    "name": "key",
+    "memberof": "src/index.js~Checkbook",
+    "static": false,
+    "longname": "src/index.js~Checkbook#key",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "member",
+    "name": "secret",
+    "memberof": "src/index.js~Checkbook",
+    "static": false,
+    "longname": "src/index.js~Checkbook#secret",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 99,
+    "kind": "method",
+    "name": "check",
+    "memberof": "src/index.js~Checkbook",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~Checkbook#check",
+    "access": "public",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 100,
+    "kind": "method",
+    "name": "invoice",
+    "memberof": "src/index.js~Checkbook",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~Checkbook#invoice",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 101,
+    "kind": "method",
+    "name": "subscription",
+    "memberof": "src/index.js~Checkbook",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~Checkbook#subscription",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "method",
+    "name": "user",
+    "memberof": "src/index.js~Checkbook",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~Checkbook#user",
+    "access": "public",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 103,
+    "kind": "method",
+    "name": "bank",
+    "memberof": "src/index.js~Checkbook",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~Checkbook#bank",
+    "access": "public",
+    "description": null,
+    "lineNumber": 32,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "# Checkbook.io API\n\n[Checkbook.io](https://checkbook.io/) API for sending checks online and offline.\n\nThis module lets you send, query, charge, and interact with the checkbook.io API in your Node.js applications.\n\n## Install\n\n```js\n$ npm i -s git+ssh://git@github.com:Villa-Rentals/checkbook.io-sdk.git\n\n```\n\n## Usage\n\n#### Configure Strategy\n\nThe Checkbook.io sdk API authenticates using the a key and secret. These tokens are obtained through the [Checkbook.io portal](https://checkbook.io/login). The SDK requires the realm of the API (test, sandbox, live) and long with the previously mentioned tokens.\n\n```js\nnew Checkbook('stage', key, secret);\n```\n\n#### Making Requests\n\nSee the [documentation](docs/index.html) for more information about the SDK.\n\n## Tests\n\nThe key and secret are required for the tests to pass. These can be obtained through the [Checkbook.io portal](https://checkbook.io/login). Once these tokens have been acquired, create a .env file from the [.env.example](.env.example) file and provide the tokens. These will be used to authenticate your requests.\n\n```bash\n$ npm install --dev\n$ npm test\n```\n## License\n\n[The MIT License](http://opensource.org/licenses/MIT)\n",
+    "longname": "/Users/brian_olencki/projects/checkbook.io-sdk/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"checkbook.io-sdk\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Unofficial SDK to access the Checkbook.io API\",\n  \"keywords\": [\n    \"checkbook.io\",\n    \"payment\",\n    \"eCheck\"\n  ],\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/Villa-Rentals/checkbook.io-sdk.git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/Villa-Rentals/checkbook.io-sdk/issues\"\n  },\n  \"author\": {\n    \"name\": \"Villa Rentals\",\n    \"email\": \"support@getvillarentals.com\"\n  },\n  \"license\": \"MIT\",\n  \"main\": \"./lib/checkbook.io-sdk\",\n  \"scripts\": {\n    \"build\": \"NODE_ENV=build webpack --env dev && webpack --env build && npm run test\",\n    \"dev\": \"NODE_ENV=dev webpack --progress --colors --watch --env dev\",\n    \"test\": \"mocha --require babel-core/register --colors './test/**/*.test.js'\",\n    \"test:watch\": \"mocha --require babel-core/register --colors -w './test/**/*.test.js'\",\n    \"lint\": \"./node_modules/.bin/eslint . --fix\",\n    \"prepush\": \"npm run lint\",\n    \"docs:open\": \"open ./docs/index.html\",\n    \"docs\": \"./node_modules/.bin/esdoc\"\n  },\n  \"devDependencies\": {\n    \"babel-cli\": \"^6.26.0\",\n    \"babel-core\": \"^6.26.0\",\n    \"babel-eslint\": \"^8.0.3\",\n    \"babel-loader\": \"^7.1.2\",\n    \"babel-plugin-add-module-exports\": \"^0.2.1\",\n    \"babel-preset-env\": \"^1.6.1\",\n    \"chai\": \"^4.1.2\",\n    \"dotenv\": \"^5.0.1\",\n    \"esdoc\": \"^1.0.4\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"eslint\": \"^4.13.1\",\n    \"eslint-config-standard\": \"^10.2.1\",\n    \"eslint-loader\": \"^2.0.0\",\n    \"eslint-plugin-import\": \"^2.8.0\",\n    \"eslint-plugin-node\": \"^5.2.1\",\n    \"eslint-plugin-promise\": \"^3.6.0\",\n    \"eslint-plugin-standard\": \"^3.0.1\",\n    \"husky\": \"^0.14.3\",\n    \"mocha\": \"^4.0.1\",\n    \"uniqid\": \"^4.1.1\",\n    \"webpack\": \"^3.10.0\",\n    \"yargs\": \"^10.0.3\"\n  },\n  \"dependencies\": {\n    \"axios\": \"^0.18.0\"\n  }\n}\n",
+    "longname": "/Users/brian_olencki/projects/checkbook.io-sdk/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
