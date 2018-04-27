@@ -9,10 +9,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/villarentals/checkbook.io-sdk.git"
+    "url": "https://github.com/Villa-Rentals/checkbook.io-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/villarentals/checkbook.io-sdk/issues"
+    "url": "https://github.com/Villa-Rentals/checkbook.io-sdk/issues"
   },
   "author": {
     "name": "Villa Rentals",

@@ -7,7 +7,7 @@ This module lets you send, query, charge, and interact with the checkbook.io API
 ## Install
 
 ```js
-$ npm i -s git+ssh://git@github.com:VillaRentals/checkbook.io-sdk.git
+$ npm i -s git+ssh://git@github.com:Villa-Rentals/checkbook.io-sdk.git
 
 ```
 
