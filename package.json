@@ -1,0 +1,59 @@
+{
+  "name": "checkbook.io-sdk",
+  "version": "1.0.0",
+  "description": "Unofficial SDK to access the Checkbook.io API",
+  "keywords": [
+    "checkbook.io",
+    "payment",
+    "eCheck"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/villarentals/checkbook.io-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/villarentals/checkbook.io-sdk/issues"
+  },
+  "author": {
+    "name": "Villa Rentals",
+    "email": "support@getvillarentals.com"
+  },
+  "license": "MIT",
+  "main": "./lib/checkbook.io-sdk",
+  "scripts": {
+    "build": "NODE_ENV=build webpack --env dev && webpack --env build && npm run test",
+    "dev": "NODE_ENV=dev webpack --progress --colors --watch --env dev",
+    "test": "mocha --require babel-core/register --colors './test/**/*.test.js'",
+    "test:watch": "mocha --require babel-core/register --colors -w './test/**/*.test.js'",
+    "lint": "./node_modules/.bin/eslint . --fix",
+    "prepush": "npm run lint",
+    "docs:open": "open ./docs/index.html",
+    "docs": "./node_modules/.bin/esdoc"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.0.3",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "dotenv": "^5.0.1",
+    "esdoc": "^1.0.4",
+    "esdoc-standard-plugin": "^1.0.0",
+    "eslint": "^4.13.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "husky": "^0.14.3",
+    "mocha": "^4.0.1",
+    "webpack": "^3.10.0",
+    "yargs": "^10.0.3"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
