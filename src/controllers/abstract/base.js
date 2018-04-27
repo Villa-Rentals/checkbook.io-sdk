@@ -10,7 +10,11 @@ export default class Base {
   }
 
   formatUrl (path) {
-    return `https://${this.realm}.checkbook.io/v3${path}`
+    if (this.realm && this.realm.length > 1) {
+      return `https://checkbook.io/v3${path}`
+    } else {
+      return `https://${this.realm}.checkbook.io/v3${path}`
+    }
   }
 
   request (method, path, params = {}) {
