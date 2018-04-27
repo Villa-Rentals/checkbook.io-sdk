@@ -3,6 +3,7 @@
 import Check from './controllers/check'
 import Invoice from './controllers/invoice'
 import Subscription from './controllers/subscription'
+import User from './controllers/user'
 
 export default class Checkbook {
   constructor (realm, key, secret) {
@@ -21,5 +22,9 @@ export default class Checkbook {
 
   subscription () {
     return new Subscription(this.realm, this.key, this.secret)
+  }
+
+  user () {
+    return new User(this.realm, this.key, this.secret)
   }
 }
